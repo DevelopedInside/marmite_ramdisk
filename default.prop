@@ -41,8 +41,8 @@ ro.com.android.mobiledata=false
 #
 # BOOTIMAGE_BUILD_PROPERTIES
 #
-ro.bootimage.build.date=Wed Sep 6 18:52:18 WEST 2017
-ro.bootimage.build.date.utc=1504720338
-ro.bootimage.build.fingerprint=Wileyfox/Swift2/marmite:7.1.2/N2G48B/625e6a323f:user/release-keys
+ro.bootimage.build.date=Mon Jan 8 19:21:21 WET 2018
+ro.bootimage.build.date.utc=1515439281
+ro.bootimage.build.fingerprint=Wileyfox/Swift2/marmite:7.1.2/N2G48B/0948f7e7c8:user/release-keys
 persist.sys.usb.config=none
 
